@@ -16,7 +16,7 @@ install_requires = [
 	"torchmetrics",
 	"torchvision",
 	"tqdm",
-	"transformer",
+	"transformers==4.19.2",
 	"typing_extensions",
 	"urllib3",
 	"wandb6",
